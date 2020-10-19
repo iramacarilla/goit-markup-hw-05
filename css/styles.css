@@ -449,7 +449,7 @@ border-radius: 4px;
 .clients-iconcontent {
 fill:  #AFB1B8;
 
-transition: fill 2500ms cubic-bezier(0.4, 0, 0.2, 1);
+transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .clients-list:hover{
 border: 1px solid var(--brand-color);
